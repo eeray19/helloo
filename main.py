@@ -7,3 +7,4 @@ a=57
 a=523
 string= "bXWDpcEiuhmiwXwe86rQnp3fUjsEQjrSFd"
 a="kfş"
+b="fds"
