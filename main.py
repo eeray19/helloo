@@ -8,3 +8,4 @@ a=523
 string= "bXWDpcEiuhmiwXwe86rQnp3fUjsEQjrSFd"
 a="kfş"
 b="fds"
+c=523
